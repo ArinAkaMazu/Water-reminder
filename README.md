@@ -4,7 +4,7 @@
 This Python project aims to remind users to stay hydrated by sending periodic notifications to drink water throughout the day. It utilizes the notification library in Python to display notifications at specified intervals.
 
 ## Features
-- Sends periodic notifications to remind users to drink water.
+- Sends periodic notifications to remind users to drink water every hour.
 - Customizable notification intervals.
 - Simple and easy-to-use interface.
 
@@ -25,5 +25,6 @@ This Python project aims to remind users to stay hydrated by sending periodic no
 
     ```bash
     pip install plyer
+    pip install time
     ```
 
