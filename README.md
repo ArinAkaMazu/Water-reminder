@@ -24,6 +24,6 @@ This Python project aims to remind users to stay hydrated by sending periodic no
 3. Install the required dependencies using pip:
 
     ```bash
-    pip install notification
+    pip install plyer
     ```
 
